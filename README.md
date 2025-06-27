@@ -83,6 +83,8 @@ in your browser
 - Error handling and feedback
 
 ## Development
+Screenshot_20250627_160147_Gallery.jpg
+
 
 ### Project Structure
 
