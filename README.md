@@ -87,6 +87,12 @@ in your browser
 Here is a screenshot:
 
 ![Screenshot](images/Screenshot_20250627_160147_Gallery.jpg)
+![Screenshot 1](images/Screenshot_20250627_160154_Gallery.jpg)
+![Screenshot 2](images/Screenshot_20250627_160147_Gallery.jpg)
+![Screenshot 3](images/Screenshot_20250627_160243_Gallery.jpg)
+![Screenshot 4](images/Screenshot_20250627_160319_Gallery.jpg)
+![Screenshot 5](images/Screenshot_20250627_160334_Gallery.jpg)
+![Screenshot 6](images/Screenshot_20250627_160344_Gallery.jpg)
 
 
 ### Project Structure
