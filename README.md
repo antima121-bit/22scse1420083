@@ -82,13 +82,18 @@ in your browser
 - Accessibility features
 - Error handling and feedback
 
-## Development
+## 📸 App Screenshots
 
-Here is a screenshot:
-![dcec3f35-8e1b-44a0-aab0-0fbe7dd9c224](https://github.com/user-attachments/assets/53a668a5-f87b-462c-ad88-c4d4e59f7bd0)
-![cd954d2d-c827-4d52-98ee-e8e4b5abf247](https://github.com/user-attachments/assets/a74dc580-b105-4e29-9cb6-0f25fcb5f523)
-![ee43a7d3-c67e-4459-9b0e-98fffe8232c5](https://github.com/user-attachments/assets/79857f37-d97b-4b11-b2d9-b8c38fdbe7c3)
-![e3962c22-45d0-4d92-8641-c6841f20c1fa](https://github.com/user-attachments/assets/f3d4c621-5480-469c-8630-fb9a16d18608)
+Here are some screenshots of the app:
+
+<img src="https://github.com/user-attachments/assets/53a668a5-f87b-462c-ad88-c4d4e59f7bd0" alt="Screenshot 1" width="400"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/a74dc580-b105-4e29-9cb6-0f25fcb5f523" alt="Screenshot 2" width="400"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/79857f37-d97b-4b11-b2d9-b8c38fdbe7c3" alt="Screenshot 3" width="400"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/f3d4c621-5480-469c-8630-fb9a16d18608" alt="Screenshot 4" width="400"/>
+
 
 
 
