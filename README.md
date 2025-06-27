@@ -83,7 +83,10 @@ in your browser
 - Error handling and feedback
 
 ## Development
-Screenshot_20250627_160147_Gallery.jpg
+
+Here is a screenshot:
+
+![Screenshot](images/Screenshot_20250627_160147_Gallery.jpg)
 
 
 ### Project Structure
