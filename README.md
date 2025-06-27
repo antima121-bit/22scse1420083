@@ -85,14 +85,11 @@ in your browser
 ## Development
 
 Here is a screenshot:
+![dcec3f35-8e1b-44a0-aab0-0fbe7dd9c224](https://github.com/user-attachments/assets/53a668a5-f87b-462c-ad88-c4d4e59f7bd0)
+![cd954d2d-c827-4d52-98ee-e8e4b5abf247](https://github.com/user-attachments/assets/a74dc580-b105-4e29-9cb6-0f25fcb5f523)
+![ee43a7d3-c67e-4459-9b0e-98fffe8232c5](https://github.com/user-attachments/assets/79857f37-d97b-4b11-b2d9-b8c38fdbe7c3)
+![e3962c22-45d0-4d92-8641-c6841f20c1fa](https://github.com/user-attachments/assets/f3d4c621-5480-469c-8630-fb9a16d18608)
 
-![Screenshot](images/Screenshot_20250627_160147_Gallery.jpg)
-![Screenshot 1](images/Screenshot_20250627_160154_Gallery.jpg)
-![Screenshot 2](images/Screenshot_20250627_160147_Gallery.jpg)
-![Screenshot 3](images/Screenshot_20250627_160243_Gallery.jpg)
-![Screenshot 4](images/Screenshot_20250627_160319_Gallery.jpg)
-![Screenshot 5](images/Screenshot_20250627_160334_Gallery.jpg)
-![Screenshot 6](images/Screenshot_20250627_160344_Gallery.jpg)
 
 
 ### Project Structure
