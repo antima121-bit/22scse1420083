@@ -48,7 +48,10 @@ A modern, client-side URL shortener built with React, TypeScript, and Material U
    ```bash
    npm start
    ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
+5. Open 
+
+https://youtube.com/shorts/p1OJVO6z3o0?si=BSs3wI3CiEI6yUQF
+in your browser
 
 ## Usage
 
