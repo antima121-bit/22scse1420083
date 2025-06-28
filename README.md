@@ -90,7 +90,7 @@ Here are some screenshots of the app:
 <br/>
 <img src="https://github.com/user-attachments/assets/a74dc580-b105-4e29-9cb6-0f25fcb5f523" alt="Screenshot 2" width="400"/>
 <br/>
-<img src="https://github.com/user-attachments/assets/79857f37-d97b-4b11-b2d9-b8c38fdbe7c3" alt="Screenshot 3" width="400"/>
+<img src="https://github.com/user-attachments/assets/0b64b74d-7c1b-4852-8d66-cea63b6697b1" alt="Screenshot 3" width="400"/>
 <br/>
 <img src="https://github.com/user-attachments/assets/f3d4c621-5480-469c-8630-fb9a16d18608" alt="Screenshot 4" width="400"/>
 
